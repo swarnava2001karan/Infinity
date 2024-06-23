@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
     </a>
   <br />
@@ -14,27 +13,18 @@
   <h3 align="center">Modern UI/UX website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
     </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/B91wc5dCEBA" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+  [Introduction](#introduction)
+  [Tech Stack](#tech-stack)
+  [Features](#features)
+  [Quick Start](#quick-start)
+  [Snippets](#snippets)
+  [Links](#links)
+  [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -876,4 +866,5 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+
 # brainwave
