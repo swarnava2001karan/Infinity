@@ -28,8 +28,6 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Vite
@@ -829,13 +827,9 @@ export default Roadmap;
 
 Will update later after Hosting 
 
-##<a name="more">More</a>
+## <a name="more">More</a>
 </a>
 
 <br />
 <br />
 </a>
-
-#
-
-# brainwave
