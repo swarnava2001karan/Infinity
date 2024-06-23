@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="AI made for creators."
-          text="Brainwave unlocks the potential of an Individual and Brings out The Inner Talent"
+          text="Infinity unlocks the infinite potential of an Individual and Brings out The Inner Talent"
         />
 
         <div className="relative">
@@ -35,7 +35,7 @@ const Services = () => {
             <div className="relative z-1 max-w-[17rem] ml-auto">
               <h4 className="h4 mb-4">Creative AI</h4>
               <p className="body-2 mb-[3rem] text-n-3">
-                Brainwave unlocks the talents of Creators
+                Infinity unlocks the Infinite talents of Creators
               </p>
               <ul className="body-2">
                 {brainwaveServices.map((item, index) => (
